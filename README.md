@@ -49,13 +49,32 @@ Through Exploratory Data Analysis (EDA) and predictive modeling, this project un
 - Integrate Power BI / Streamlit dashboard for real-time visualization.
 
 ---
+## 📁 Repository Structure
+Employee_Attrition_Prediction_By_Aditya_Zalte/
+│
+├── 📄 README.md
+├── 📄 requirements.txt
+│
+├── 📁 data/
+│   └── HR_Employee_Attrition.csv
+│
+├── 📁 notebook/
+│   └── Employee_Attrition_Prediction_By_Aditya_Zalte_DS.ipynb
+│
+├── 📁 visuals/
+│   ├── age_vs_attrition.png
+│   ├── income_vs_attrition.png
+│   ├── work_life_balance.png
+│   ├── department_attrition.png
+│   └── satisfaction_vs_attrition.png
+│
+└── 📁 tableau/
+    └── HR_Attrition_Dashboard.twbx
 
-
----
 
 ## 🧠 Author
 
-**AdityaZalte**  
+**Aditya Zalte**  
 📍 Data Science Student |Passionate about HR Analytics & AI  
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/adityazalte-ds)  
 
