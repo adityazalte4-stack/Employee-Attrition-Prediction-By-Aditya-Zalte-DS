@@ -49,17 +49,25 @@ Through Exploratory Data Analysis (EDA) and predictive modeling, this project un
 - Integrate Power BI / Streamlit dashboard for real-time visualization.
 
 ---
-## 📁 Repository Structure
 Employee_Attrition_Prediction_By_Aditya_Zalte/
 │
 ├── 📄 README.md
+│   → Overview, objectives, workflow, and key insights from the project.
+│
 ├── 📄 requirements.txt
+│   → Contains all the Python dependencies required to run the notebook.
 │
 ├── 📁 data/
 │   └── HR_Employee_Attrition.csv
+│       → The dataset used for analysis and model training.
 │
 ├── 📁 notebook/
 │   └── Employee_Attrition_Prediction_By_Aditya_Zalte_DS.ipynb
+│       → The main Jupyter Notebook containing all steps:
+│          - Data Cleaning & Preprocessing
+│          - Exploratory Data Analysis (EDA)
+│          - Model Building (Logistic Regression)
+│          - Results & Observations
 │
 ├── 📁 visuals/
 │   ├── age_vs_attrition.png
@@ -67,9 +75,12 @@ Employee_Attrition_Prediction_By_Aditya_Zalte/
 │   ├── work_life_balance.png
 │   ├── department_attrition.png
 │   └── satisfaction_vs_attrition.png
+│       → All generated visualizations and plots from the analysis.
 │
 └── 📁 tableau/
     └── HR_Attrition_Dashboard.twbx
+        → Tableau dashboard for interactive visualization of attrition patterns.
+
 
 
 ## 🧠 Author
